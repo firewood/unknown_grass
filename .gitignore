@@ -1,9 +1,13 @@
 .DS_Store
+.atom/
 .dart_tool/
-
 .packages
 .pub/
-
 build/
-
 .flutter-plugins
+
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries
+.idea/libraries
